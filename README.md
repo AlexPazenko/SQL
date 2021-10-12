@@ -15,4 +15,4 @@ Implement a many-to-many relationship for the Customers table with the Order tab
 I need to write queries and save them in a separate file.
 
 
-The database dump and sql query file will be in the sql-lesson branch.
+The database dump and sql queries file will be in the sql-lesson branch.
